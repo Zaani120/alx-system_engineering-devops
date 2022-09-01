@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod a+753 hellp
+chmod rwxr-x-wx hellp
