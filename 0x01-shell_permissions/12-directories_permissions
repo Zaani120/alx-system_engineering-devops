@@ -1,0 +1,3 @@
+#!/bin/bash
+mkdir path/my_dir
+chmod 751 path/my_dir
